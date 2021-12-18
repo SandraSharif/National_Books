@@ -1,0 +1,80 @@
+body {
+font-family: Courier, monospace;
+background-image: url(file:///C:/Users/Sasha/national_books/pictures/back.jpg);
+font-size: 18pt;
+}
+p.k{
+text-align: right;
+font-size: 12pt;
+font-family: Bradley Hand, cursive;
+}
+p.hello{
+font-size: 14pt;
+}
+p.ask{
+font-size: 16pt;
+}
+a{
+	color: blue;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: olive;
+}
+h1{
+background: #5eb35b;
+font-family: Bradley Hand, cursive;
+font-size: 20pt;
+}
+h2 {
+background: #5eb35b;
+font-family: Bradley Hand, cursive;
+font-size: 18pt;
+}
+.header_italy{
+text-align: center;
+font-family: Bradley Hand, cursive;
+font-size: 26pt;
+background-image: url(file:///C:/Users/Sasha/national_books/pictures/itflag.png);
+}
+.header_france {
+text-align: center;
+font-family: Bradley Hand, cursive;
+font-size: 26pt;
+background-image: url(file:///C:/Users/Sasha/national_books/pictures/french.png);
+}
+.header_china {
+text-align: center;
+font-family: Bradley Hand, cursive;
+font-size: 26pt;
+background: red;
+}
+.header_usa{
+text-align: center;
+font-family: Bradley Hand, cursive;
+font-size: 26pt;
+background-image: url(file:///C:/Users/Sasha/national_books/pictures/theusa.svg);
+}
+.header_scandin{
+text-align: center;
+font-family: Bradley Hand, cursive;
+font-size: 26pt;
+background-image: url(file:///C:/Users/Sasha/national_books/pictures/scan.png);
+}	
+.header_germany{
+text-align: center;
+color: red;
+font-family: Bradley Hand, cursive;
+font-size: 26pt;
+background: black;
+}
+.header_russia{
+text-align: center;
+color: white;
+font-size: 26pt;
+background-image: url(file:///C:/Users/Sasha/national_books/pictures/rus.png);
+background: blue;
+font-family: URW Chancery L, cursive;
+}
