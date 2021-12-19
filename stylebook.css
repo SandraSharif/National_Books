@@ -1,6 +1,6 @@
 body {
 font-family: Courier, monospace;
-background-image: url(../pictures/back.jpg);
+background-image: url(pictures/back.jpg);
 font-size: 18pt;
 }
 p.k{
@@ -37,13 +37,13 @@ font-size: 18pt;
 text-align: center;
 font-family: Bradley Hand, cursive;
 font-size: 26pt;
-background-image: url(../pictures/itflag.png);
+background-image: url(pictures/itflag.png);
 }
 .header_france {
 text-align: center;
 font-family: Bradley Hand, cursive;
 font-size: 26pt;
-background-image: url(../pictures/french.png);
+background-image: url(pictures/french.png);
 }
 .header_china {
 text-align: center;
@@ -55,13 +55,13 @@ background: red;
 text-align: center;
 font-family: Bradley Hand, cursive;
 font-size: 26pt;
-background-image: url(../pictures/theusa.svg);
+background-image: url(pictures/theusa.svg);
 }
 .header_scandin{
 text-align: center;
 font-family: Bradley Hand, cursive;
 font-size: 26pt;
-background-image: url(../pictures/scan.png);
+background-image: url(pictures/scan.png);
 }	
 .header_germany{
 text-align: center;
